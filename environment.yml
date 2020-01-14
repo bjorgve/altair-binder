@@ -1,0 +1,9 @@
+name: vampyr-binder
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - matplotlib
+  - numpy
+  - altair
+  - python=3.7
